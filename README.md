@@ -4,6 +4,3 @@ A CubeSat prototype with a 3 reaction wheel array for complete attitude control 
 ## Year: 2022.
 
 # Simulation. 
-
-![propuesta esfera cubeu1 v1](https://github.com/Lechuga-Geronimo/GNCTestBenchValidation/assets/142461885/df278a33-4b30-4390-9d09-7ebd03ebe892)
-
